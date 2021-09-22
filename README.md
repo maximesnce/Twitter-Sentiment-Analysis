@@ -73,13 +73,3 @@ Regroupe les images utilisées par les fonctions des autres modules (logo JO et 
 
 # VI. main  
 Il s'agit du fichier à exécuter pour obtenir toutes les informations utiles d'un seul coup. Cela se traduit par une interface graphique qui permet d'afficher à peu près tout type de données en lien avec les Jeux Olympiques de 2020. 
-
-
-
-
-
-
-# Bibliographie
-
-* Image des Jeux Olympiques: https://en.wikipedia.org/wiki/Olympic_Games  
-* Image du logo twitter: https://fr.wikipedia.org/wiki/Twitter
